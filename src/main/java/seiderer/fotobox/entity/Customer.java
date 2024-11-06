@@ -20,5 +20,4 @@ public class Customer {
     String password;
     String role;
     String infos;
-    Boolean professional;
 }
